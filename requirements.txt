@@ -1,0 +1,23 @@
+# Binance Consensus Trader
+
+# HTTP requests
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Telegram
+python-telegram-bot>=20.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+pymongo>=4.5.0
+
+# Utils
+python-dotenv>=1.0.0
+colorama>=0.4.6
+
+# For Render
+flask>=2.3.0
+gunicorn>=21.0.0
